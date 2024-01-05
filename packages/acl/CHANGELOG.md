@@ -1,5 +1,11 @@
 # @mixz/acl
 
+## 0.1.9
+
+### Patch Changes
+
+- Trigger release
+
 ## 0.1.8
 
 ### Patch Changes
