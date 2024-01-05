@@ -1,5 +1,11 @@
 # @mixz/acl
 
+## 0.1.7
+
+### Patch Changes
+
+- Update school-web and acl
+
 ## 0.1.6
 
 ### Patch Changes
