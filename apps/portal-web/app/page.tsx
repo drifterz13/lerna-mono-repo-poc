@@ -1,10 +1,12 @@
 import Image from 'next/image'
 import styles from './page.module.css'
+import { canAccessCurriculumPanel } from '@mixz/acl'
 
 export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <div>Can access curriculum panel: {String(canAccessCurriculumPanel('teacher'))}</div>
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>app/page.tsx</code>
