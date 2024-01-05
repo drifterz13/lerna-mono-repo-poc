@@ -3,5 +3,5 @@ export function canAccessCurriculumPanel(role: "teacher" | "student") {
 }
 
 export function canAccessSelfCurriculumPanel(role: "teacher" | "student") {
-  return false;
+  return true;
 }
