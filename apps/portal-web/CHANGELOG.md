@@ -1,5 +1,12 @@
 # portal-web
 
+## 0.1.3
+
+### Patch Changes
+
+- Updated dependencies
+  - @drifterz13/acl@0.1.4
+
 ## 0.1.2
 
 ### Patch Changes
