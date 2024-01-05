@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
+    "@changesets/cli": "^2.27.1",
     "lerna": "^8.0.1"
   }
 }
