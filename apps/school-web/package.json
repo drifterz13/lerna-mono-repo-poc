@@ -1,7 +1,7 @@
 {
   "name": "school-web",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,9 +11,9 @@
     "test": "vitest run"
   },
   "dependencies": {
+    "acl": "file:../../packages/acl",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "acl": "file:../../packages/acl"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.2.0",
