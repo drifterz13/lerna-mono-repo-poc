@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+      "target": "es2018", // Target ECMAScript 2018
+      "module": "commonjs", // Generate CommonJS modules
+      "strict": true, // Enable strict type-checking
+      "esModuleInterop": true, // Allow default imports from modules with no default export
+      "skipLibCheck": true, // Skip type checking of declaration files
+      "forceConsistentCasingInFileNames": true, // Ensure consistent casing in file names
+      "outDir": "./dist", // Output directory for compiled files
+      "rootDir": "./src", // Specify the root directory of input files
+      "resolveJsonModule": true, // Enable importing JSON modules
+      "declaration": true, // Generates corresponding .d.ts files
+      "sourceMap": true // Generates source maps
+    },
+    "include": [
+      "src/**/*.ts" // Include all TypeScript files within the src directory
+    ],
+    "exclude": [
+      "node_modules" // Exclude the node_modules directory
+    ]
+  }
+  
