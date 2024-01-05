@@ -1,5 +1,11 @@
 # @mixz/acl
 
+## 0.1.10
+
+### Patch Changes
+
+- Update pnpm-lock and trigger release
+
 ## 0.1.9
 
 ### Patch Changes
