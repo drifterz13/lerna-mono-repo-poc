@@ -1,5 +1,13 @@
 # portal-web
 
+## 0.1.7
+
+### Patch Changes
+
+- Update acl package and its caller
+- Updated dependencies
+  - @drifterz13/acl@0.1.8
+
 ## 0.1.6
 
 ### Patch Changes
