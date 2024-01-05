@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "lerna run build",
     "test": "lerna run test"
   },
   "keywords": [],
