@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "pnpm -r --parallel --stream run test",
-    "build": "pnpm -r --parallel --stream run build"
+    "build": "pnpm -r --stream run build"
   },
   "keywords": [],
   "author": "",

@@ -1,5 +1,11 @@
 # @mixz/acl
 
+## 0.1.11
+
+### Patch Changes
+
+- Trigger workflow
+
 ## 0.1.10
 
 ### Patch Changes
