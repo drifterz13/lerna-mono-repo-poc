@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.tsx";
 import "./index.css";
 
-import { canAccessCurriculumPanel } from "@mixz/acl";
+import { canAccessCurriculumPanel } from "@drifterz13/acl";
 
 console.log("canAccessCurriculumPanel", canAccessCurriculumPanel("student"));
 

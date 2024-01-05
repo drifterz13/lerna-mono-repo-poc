@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import styles from './page.module.css'
-import { canAccessCurriculumPanel } from '@mixz/acl'
+import { canAccessCurriculumPanel } from '@drifterz13/acl'
 
 export default function Home() {
   return (

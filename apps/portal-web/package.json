@@ -1,6 +1,6 @@
 {
   "name": "portal-web",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -10,7 +10,7 @@
     "test": "echo The app name is $npm_package_name and version is $npm_package_version"
   },
   "dependencies": {
-    "@mixz/acl": "workspace:^",
+    "@drifterz13/acl": "workspace:^",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18"
