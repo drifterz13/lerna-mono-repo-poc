@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "lerna run build",
-    "test": "lerna run test"
+    "test": "pnpm -r run test",
+    "build": "pnpm -r run build"
   },
   "keywords": [],
   "author": "",
