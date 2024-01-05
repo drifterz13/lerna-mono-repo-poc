@@ -11,7 +11,7 @@
     "test": "vitest run"
   },
   "dependencies": {
-    "@drifterz13/acl": "file:../../packages/acl",
+    "@drifterz13/acl": "workspace:^",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
