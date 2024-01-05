@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "test": "pnpm -r --parallel --stream run test",
-    "build": "pnpm -r --stream run build"
+    "build": "pnpm -r --stream run build",
+    "release:packages": "pnpm --filter=acl build && changeset publish"
   },
   "keywords": [],
   "author": "",
