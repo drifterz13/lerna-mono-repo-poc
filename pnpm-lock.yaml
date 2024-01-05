@@ -45,7 +45,7 @@ importers:
 
   apps/school-web:
     dependencies:
-      acl:
+      '@mixz/acl':
         specifier: file:../../packages/acl
         version: file:packages/acl
       react:
@@ -7517,7 +7517,7 @@ packages:
 
   file:packages/acl:
     resolution: {directory: packages/acl, type: directory}
-    name: acl
+    name: '@mixz/acl'
     dependencies:
       typescript: 5.3.3
     dev: false
