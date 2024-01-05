@@ -2,10 +2,9 @@
   "name": "lerna-mono-repo-poc",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "pnpm -r run test",
-    "build": "pnpm -r run build"
+    "test": "pnpm -r --parallel --stream run test",
+    "build": "pnpm -r --parallel --stream run build"
   },
   "keywords": [],
   "author": "",
