@@ -1,5 +1,11 @@
 # @mixz/acl
 
+## 0.1.15
+
+### Patch Changes
+
+- 8e39f5d: Update acl package
+
 ## 0.1.14
 
 ### Patch Changes
