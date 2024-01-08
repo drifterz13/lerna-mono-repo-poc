@@ -52,7 +52,7 @@ importers:
   apps/school-web:
     dependencies:
       '@drifterz13/acl':
-        specifier: ^0.1.8
+        specifier: workspace:^
         version: link:../../packages/acl
       react:
         specifier: ^18.2.0

@@ -5,3 +5,8 @@ export function canAccessSelfCurriculumPanel(role: "teacher" | "student") {
 export function canAccessCurriculumPanel(role: "teacher" | "student") {
   return role === "teacher";
 }
+
+
+export function isTeacherRole(role: "teacher" | "student") {
+  return role === "teacher";
+}
