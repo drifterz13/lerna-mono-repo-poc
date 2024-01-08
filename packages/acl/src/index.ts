@@ -6,10 +6,11 @@ export function canAccessCurriculumPanel(role: "teacher" | "student") {
   return role === "teacher";
 }
 
+export function isTeacherRole(role: "teacher" | "student") {
+  return role === "teacher";
+}
+
 export function isStudentRole(role: "teacher" | "student") {
   return role === "student";
 }
 
-export function isTeacherRole(role: "teacher" | "student") {
-  return role === "teacher";
-}
