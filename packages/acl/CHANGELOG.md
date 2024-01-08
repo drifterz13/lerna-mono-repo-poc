@@ -1,5 +1,11 @@
 # @mixz/acl
 
+## 0.1.17
+
+### Patch Changes
+
+- 9eed0e6: Update package ACL
+
 ## 0.1.16
 
 ### Patch Changes
