@@ -1,5 +1,13 @@
 # school-web
 
+## 0.1.4
+
+### Patch Changes
+
+- 5fbedf9: Update acl packages and update version in school-web
+- Updated dependencies [5fbedf9]
+  - @drifterz13/acl@0.1.14
+
 ## 0.1.3
 
 ### Patch Changes
