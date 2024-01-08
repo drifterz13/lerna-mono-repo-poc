@@ -1,5 +1,12 @@
 # school-web
 
+## 0.1.7
+
+### Patch Changes
+
+- Updated dependencies [9eed0e6]
+  - @drifterz13/acl@0.1.17
+
 ## 0.1.6
 
 ### Patch Changes
