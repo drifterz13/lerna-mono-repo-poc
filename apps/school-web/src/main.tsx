@@ -9,6 +9,7 @@ console.log(
   "canAccessCurriculumPanel",
   canAccessSelfCurriculumPanel("student")
 );
+
 console.log("isTeacherRole", isTeacherRole("teacher"));
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
