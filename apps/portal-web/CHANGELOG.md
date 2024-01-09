@@ -1,5 +1,11 @@
 # portal-web
 
+## 0.1.9
+
+### Patch Changes
+
+- fc220d5: Update FE apps
+
 ## 0.1.8
 
 ### Patch Changes

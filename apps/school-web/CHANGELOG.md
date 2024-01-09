@@ -1,5 +1,11 @@
 # school-web
 
+## 0.1.11
+
+### Patch Changes
+
+- fc220d5: Update FE apps
+
 ## 0.1.10
 
 ### Patch Changes
