@@ -1,4 +1,4 @@
-name: Release Packages
+name: Release
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "21"
+          node-version: 20
 
       - uses: pnpm/action-setup@v2
         name: Install pnpm
@@ -26,9 +26,3 @@ jobs:
           version: 8
           run_install: |
             - recursive: true
-
-      - name: Create Release Pull Request or Publish to npm
-        id: changesets
-        uses: changesets/action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
