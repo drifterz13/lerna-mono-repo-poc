@@ -1,5 +1,11 @@
 # school-web
 
+## 0.1.10
+
+### Patch Changes
+
+- 55932f1: Update frontend web
+
 ## 0.1.9
 
 ### Patch Changes
