@@ -15,7 +15,7 @@ importers:
   apps/portal-web:
     dependencies:
       '@drifterz13/acl':
-        specifier: ^0.1.8
+        specifier: ^0.1.18
         version: link:../../packages/acl
       next:
         specifier: 14.0.4
