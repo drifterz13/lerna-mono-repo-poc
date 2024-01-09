@@ -4,14 +4,12 @@
   "description": "",
   "scripts": {
     "test": "pnpm -r --parallel --stream run test",
-    "build": "pnpm -r --stream run build",
-    "release:packages": "pnpm --filter=acl build && changeset publish"
+    "build": "pnpm -r --stream run build"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@changesets/cli": "^2.27.1",
     "lerna": "^8.0.1"
   }
 }
