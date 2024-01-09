@@ -1,5 +1,11 @@
 # school-web
 
+## 0.1.9
+
+### Patch Changes
+
+- 761f423: Format school-web (cont.)
+
 ## 0.1.8
 
 ### Patch Changes
