@@ -1,5 +1,11 @@
 # portal-web
 
+## 0.1.8
+
+### Patch Changes
+
+- 55932f1: Update frontend web
+
 ## 0.1.7
 
 ### Patch Changes
