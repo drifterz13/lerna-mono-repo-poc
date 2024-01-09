@@ -1,5 +1,11 @@
 # school-web
 
+## 0.1.8
+
+### Patch Changes
+
+- 7bc67be: Format code
+
 ## 0.1.7
 
 ### Patch Changes
